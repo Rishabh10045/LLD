@@ -4,32 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a44c5c79-013c-4c9f-ad7d-558d9dded017" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LLD.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DecoratorPattern/AddOns.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DecoratorPattern/Cappuccino.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DecoratorPattern/Caramel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DecoratorPattern/Coffee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DecoratorPattern/Espresso.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DecoratorPattern/ExtraSugar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DecoratorPattern/Latte.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DecoratorPattern/Milk.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DecoratorPattern/WhippedCream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DecoratorPattern_2/AddOns/Caramel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DecoratorPattern_2/AddOns/ExtraSugar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DecoratorPattern_2/AddOns/Milk.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DecoratorPattern_2/AddOns/WhippedCream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DecoratorPattern_2/BaseCoffee/Cappuccino.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DecoratorPattern_2/BaseCoffee/Espresso.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DecoratorPattern_2/BaseCoffee/Latte.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DecoratorPattern_2/Coffee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    <list default="true" id="a44c5c79-013c-4c9f-ad7d-558d9dded017" name="Changes" comment="Interview Prep LLD">
+      <change afterPath="$PROJECT_DIR$/src/FactoryDesignPattern/Button.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FactoryDesignPattern/ButtonFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FactoryDesignPattern/MacOs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FactoryDesignPattern/UIFramework.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FactoryDesignPattern/Windows.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,9 +89,20 @@
       <option name="presentableId" value="Default" />
       <updated>1780817533114</updated>
     </task>
+    <task id="LOCAL-00001" summary="Interview Prep LLD">
+      <option name="closed" value="true" />
+      <created>1780844157047</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1780844157047</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Interview Prep LLD" />
+    <option name="LAST_COMMIT_MESSAGE" value="Interview Prep LLD" />
   </component>
 </project>
