@@ -1,5 +1,6 @@
 package FactoryDesignPattern;
 
 public interface Button {
-    public String getBtnName();
+    public String getButtonName();
+//    public Button getOSName();
 }
